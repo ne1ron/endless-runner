@@ -1,5 +1,5 @@
 # endless-runner
-
+![alt text](img.png) 
 [![Build Status](https://travis-ci.org/cmc-haskell-2016/endless-runner.svg?branch=master)](https://travis-ci.org/cmc-haskell-2016/endless-runner)
 
 ## Установка и запуск
@@ -24,4 +24,8 @@ stack exec endless-runner
 
 ```
 stack build && stack exec endless-runner
+...
+
 ```
+Жми стрелку вверх, чтоб прыгнул.
+R - чтоб начать заново
